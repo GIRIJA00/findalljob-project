@@ -1,0 +1,16 @@
+.navbar-nav {
+    text-align: center;
+    margin: 0 auto;
+    font-size: 1.5em;
+  }
+
+  .btb{
+    border-top: 1px solid rgb(230, 230, 230);
+    border-bottom:1px solid rgb(230, 230, 230) ;
+}
+p{
+    font-size: 1.1em;
+}
+a{
+  text-decoration: none;
+}
