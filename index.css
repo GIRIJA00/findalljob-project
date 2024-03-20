@@ -14,3 +14,17 @@ p{
 a{
   text-decoration: none;
 }
+.logo{
+  text-align: center;
+  font-family:'Times New Roman', Times, serif;
+  margin-top: 25px;
+  margin-bottom: 25px;
+  font-weight: 400;
+  font-size: 4em;
+  color: rgb(7, 102, 245);
+  
+}
+header{
+  border-top: 1px solid rgb(230, 230, 230);
+  border-bottom: 1px solid rgb(230, 230, 230);
+}
